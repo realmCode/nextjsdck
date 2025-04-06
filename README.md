@@ -10,7 +10,7 @@ Steps to use docker with nextjs.
 
 - Configure options using the below code
 
-
+\\
 
 ```sh
 FROM node:18-alpine AS base
