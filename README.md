@@ -6,6 +6,7 @@ Steps to use docker with nextjs.
 > This example has been optimized to work with npm only, if you're using yarn, follow the original guide: [Nexjs Docker Setup](https://github.com/vercel/next.js/blob/canary/examples/with-docker/Dockerfile)
 
 - Create a `Dockerfile` in project root.
+- 
 - Configure options using the below code:
 
 ```sh
