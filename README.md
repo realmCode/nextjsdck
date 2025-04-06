@@ -12,6 +12,7 @@ Steps to use docker with nextjs.
 
 
 
+
 ```sh
 FROM node:18-alpine AS base
 FROM base AS deps
