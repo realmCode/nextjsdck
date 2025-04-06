@@ -8,9 +8,7 @@ Steps to use docker with nextjs.
 - Create a `Dockerfile` in project root.
 
 
-- Configure options using the below code:
-
-
+- Configure options using the below code
 
 
 
